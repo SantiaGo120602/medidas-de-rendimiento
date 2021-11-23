@@ -6,8 +6,8 @@ $Path="/home/Desktop/santiago/arquitectura/parcialfinal";
 @Ejecutables=("pythonP03.py");
 
 #@VectorSize= ("100","200","400","600","800","835");
-@VectorSize= ("100","200");
-$repeticiones=2;
+@VectorSize= ("200","400","600","800","1000");
+$repeticiones=30;
 
  foreach $exe (@Ejecutables)
  {
